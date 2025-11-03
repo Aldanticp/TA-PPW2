@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profil Aldanti</title>
+
+  <style>
+    /* 🌸 Tema Pink Elegan untuk Semua Halaman */
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      background: linear-gradient(135deg, #ffe6f2, #fff0f6);
+      color: #4a4a4a;
+      line-height: 1.7;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ===== NAVBAR ===== */
+    nav {
+      display: flex;
+      justify-content: center;
+      background: linear-gradient(135deg, #ffb6c1, #ff99cc);
+      padding: 15px 0;
+      box-shadow: 0 4px 10px rgba(255, 120, 160, 0.3);
+    }
+
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 15px;
+      padding: 10px 25px;
+      border-radius: 25px;
+      font-weight: 600;
+      transition: all 0.3s ease;
+    }
+
+    nav a:hover,
+    nav a.active {
+      background: #fff;
+      color: #ff4d88;
+      transform: translateY(-3px);
+      box-shadow: 0 4px 10px rgba(255, 153, 204, 0.4);
+    }
+
+    /* ===== HEADER ===== */
+    header {
+      text-align: center;
+      padding: 40px 20px;
+    }
+
+    header img {
+      width: 130px;
+      height: 130px;
+      border-radius: 50%;
+      border: 5px solid #ff99cc;
+      box-shadow: 0 4px 10px rgba(255, 150, 190, 0.4);
+      object-fit: cover;
+    }
+
+    header h1 {
+      margin: 15px 0 5px;
+      font-size: 28px;
+      font-weight: 700;
+      color: #ff4d88;
+    }
+
+    header h3 {
+      margin: 0;
+      font-weight: 400;
+      color: #6b6b6b;
+    }
+
+    /* ===== KONTEN ===== */
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+    }
+
+    section {
+      background: white;
+      border-radius: 20px;
+      padding: 25px 30px;
+      box-shadow: 0 4px 12px rgba(255, 150, 190, 0.25);
+      margin-bottom: 30px;
+    }
+
+    section h2 {
+      color: #ff4d88;
+      border-left: 5px solid #ff99cc;
+      padding-left: 10px;
+      margin-bottom: 15px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+
+    th, td {
+      padding: 10px 15px;
+      border-bottom: 1px solid #ffd6e7;
+    }
+
+    th {
+      text-align: left;
+      color: #ff4d88;
+    }
+
+    /* ===== LINK TEKS ===== */
+    .text-link {
+      color: #ff4d88;
+      font-weight: 600;
+      text-decoration: none;
+      border-bottom: 2px solid transparent;
+      transition: all 0.3s ease;
+    }
+
+    .text-link:hover {
+      color: #ff1a75;
+      border-bottom: 2px solid #ff99c8;
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #ffb6c1;
+      color: white;
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+      box-shadow: 0 -4px 12px rgba(255, 150, 190, 0.3);
+      margin-top: auto;
+    }
+
+    /* ===== RESPONSIF ===== */
+    @media (max-width: 768px) {
+      nav a {
+        padding: 8px 18px;
+        font-size: 0.9em;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- 🔗 NAVBAR -->
+  <nav>
+    <a href="index.html" class="active">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="contact.html">Contact</a>
+    <a href="sertifikat.html">Sertifikat</a>
+    <a href="project.html" >Project</a>
+  </nav>
+
+  <!-- ===== HEADER ===== -->
+  <header>
+    <img src="profil.jpg" alt="Foto Profil">
+    <h1>Aldanti Cahyani Putri</h1>
+    <h3>Mahasiswi Fakultas Teknik Informatika</h3>
+  </header>
+
+  <!-- ===== KONTEN ===== -->
+  <main>
+    <section id="about">
+      <h2>Tentang Saya</h2>
+      <p>
+        Halo! Saya <strong>Aldanti</strong>, mahasiswi yang memiliki minat besar dalam dunia teknologi dan desain web.
+        Saya senang menciptakan tampilan yang indah serta fungsional.  
+        Ingin tahu lebih banyak tentang saya?  
+        <a href="about.html" class="text-link">Baca selengkapnya di halaman About Me 💖</a>
+      </p>
+    </section>
+
+    <section id="skills">
+      <h2>Kemampuan</h2>
+      <table>
+        <tr><th>Bahasa Pemrograman</th><td>HTML, CSS, JavaScript</td></tr>
+        <tr><th>Framework</th><td>React & Laravel</td></tr>
+        <tr><th>Desain</th><td>UI/UX dengan Figma</td></tr>
+        <tr><th>Database</th><td>MySQL</td></tr>
+      </table>
+    </section>
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer>
+    <p>© 2025 Aldanti Cahyani Putri 💗 | <a href="contact.html" class="text-link">Hubungi Saya</a></p>
+  </footer>
+
+</body>
+</html>
