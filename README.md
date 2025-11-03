@@ -30,15 +30,22 @@ Instalasi dan Penggunaan
 </table>
 
 3. push dan edit file
-![WhatsApp Image 2025-11-03 at 18 46 33_45020fad](https://github.com/user-attachments/assets/b11ee376-18b6-4589-88d9-a100b5708560)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b11ee376-18b6-4589-88d9-a100b5708560" alt="Gambar 1" width="300">
+</p>
 
 4. branch untuk eksperimen styling baru
-![WhatsApp Image 2025-11-03 at 18 48 27_396e21f1](https://github.com/user-attachments/assets/055e6179-c6ae-4512-ba2f-fb688bab049c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/055e6179-c6ae-4512-ba2f-fb688bab049c" alt="Gambar 2" width="300">
+</p>
 
 5. Merge branch setelah styling selesai
-![WhatsApp Image 2025-11-03 at 18 50 09_a00bf0c7](https://github.com/user-attachments/assets/c8119fe9-adb6-4254-aefc-789f5e7c759d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8119fe9-adb6-4254-aefc-789f5e7c759d" alt="Gambar 3" width="300">
+</p>
 
 6. git log --graph --oneline
-![WhatsApp Image 2025-11-03 at 18 50 51_cf2ce887](https://github.com/user-attachments/assets/996b7651-7929-4ce4-b1f5-36d8873788cf)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/996b7651-7929-4ce4-b1f5-36d8873788cf" alt="Gambar 4" width="300">
+</p>
 
