@@ -5,13 +5,17 @@ Tujuan pembuatan website ini adalah untuk membangun identitas digital pribadi ya
 Fitur utama:
 
 Halaman Home: menampilkan perkenalan singkat dan navigasi utama.
+
 Halaman About: berisi informasi pribadi, pendidikan, dan keahlian.
+
 Halaman Projects: menampilkan portofolio karya atau proyek yang telah dibuat.
+
 Halaman Contact: menampilkan kontak media sosial atau alamat email.
+
 Instalasi dan Penggunaan
 
 1. configurasi global user,make directory, inisialisasi
-![WhatsApp Image 2025-11-03 at 18 20 59_eb4b8ad4](https://github.com/user-attachments/assets/a3c3fc10-352c-4625-9e9f-90a8546aa988)
+<img src="![WhatsApp Image 2025-11-03 at 18 20 59_eb4b8ad4](https://github.com/user-attachments/assets/a3c3fc10-352c-4625-9e9f-90a8546aa988)" alt="Logo Recursive" width="200"/>
 
 3. menambahkan file per section ke local repository
 ![WhatsApp Image 2025-11-03 at 18 40 20_b1e5fcbe](https://github.com/user-attachments/assets/e2cd3bf0-6f7d-4f2d-b697-fe440de12971)
