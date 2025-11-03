@@ -1,6 +1,6 @@
-Website portofolio pribadi ini merupakan media untuk menampilkan informasi diri, keahlian, serta proyek-proyek yang pernah dibuat. Website ini dirancang menggunakan teknologi web dasar agar mudah diakses dan dipelajari, serta menampilkan tampilan yang menarik dan responsif.
+Website portofolio pribadi ini berfungsi sebagai sarana untuk memperkenalkan diri, menampilkan keahlian, serta memamerkan proyek-proyek yang telah dikerjakan. Website ini dibuat dengan menggunakan teknologi web dasar agar dapat diakses dengan mudah, dipelajari secara praktis, serta memiliki tampilan yang menarik dan responsif.
 
-Tujuan pembuatan website ini adalah untuk membangun identitas digital pribadi yang profesional sekaligus sebagai latihan dalam penerapan HTML, CSS.
+Adapun tujuan pembuatan website ini adalah untuk membangun identitas digital yang profesional sekaligus menjadi sarana latihan dalam penerapan HTML dan CSS.
 
 Fitur utama:
 
