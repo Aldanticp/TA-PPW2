@@ -4,15 +4,15 @@ Adapun tujuan pembuatan website ini adalah untuk membangun identitas digital yan
 
 Fitur utama:
 
-Halaman Home: menampilkan perkenalan singkat dan navigasi utama.
+Halaman Home (index.html): Menampilkan perkenalan singkat dan navigasi ke halaman lain.
 
-Halaman About: berisi informasi pribadi, pendidikan, dan keahlian.
+Halaman About (about.html): Berisi informasi pribadi, pendidikan, dan keahlian.
 
-Halaman Projects: menampilkan portofolio karya atau proyek yang telah dibuat.
+Halaman Projects (project.html): Menampilkan portofolio karya atau proyek yang telah dibuat, termasuk gambar pendukung (project.png).
 
-Halaman Contact: menampilkan kontak media sosial atau alamat email.
+Halaman Sertifikat (sertifikat.html): Menampilkan sertifikat atau penghargaan yang telah diperoleh, dengan gambar pendukung (sertifikat.png).
 
-Instalasi dan Penggunaan
+Halaman Contact (contact.html): Menampilkan informasi kontak, media sosial, atau alamat email.
 
 1. configurasi global user,make directory, inisialisasi
 <p align="center">
